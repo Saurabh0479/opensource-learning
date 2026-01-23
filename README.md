@@ -1,2 +1,3 @@
-hi bro
+Its my first repo.
+
 
